@@ -1,0 +1,10 @@
+@media (max-width: 576px) {
+  .fa.fa-search.ml-sm-auto.nav-link {
+    margin-left: 0;
+  }
+}
+
+.search {
+  visibility: collapse;
+}
+

@@ -1,0 +1,10 @@
+@media (min-width: 992px) {
+  #GraphCOn {
+    height: 210px;
+  }
+}
+
+.text-primary {
+  color: yellow;
+}
+
